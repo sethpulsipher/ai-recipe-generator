@@ -49,3 +49,10 @@ export default tseslint.config({
 })
 ```
 "# ai-recipe-generator" 
+## Technologies
+
+- AWS Amplify to host frontend
+- AWS Amplify Auth and AWS Bedrock for LLM access
+- AWS Cognito
+- AWS AppSync for GraphQL
+- AWS Lambda
