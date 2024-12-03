@@ -56,3 +56,6 @@ export default tseslint.config({
 - AWS Cognito
 - AWS AppSync for GraphQL
 - AWS Lambda
+
+## Application Architecture
+<img width="422" alt="ai-recipe-generator-serverless-architecture-diagram" src="https://github.com/user-attachments/assets/cc6a07a5-04a1-4cec-9d2b-812f28a86dd0">
